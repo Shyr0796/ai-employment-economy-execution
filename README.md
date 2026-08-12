@@ -58,8 +58,8 @@ The commands below are intended for Linux/macOS or WSL and have been verified
 with Python 3.12.
 
 ```bash
-git clone https://github.com/Shyr0796/ai-employment-economy-execution.git
-cd ai-employment-economy-execution
+git clone https://github.com/Shyr0796/governing-the-ai-shock.git
+cd governing-the-ai-shock
 
 python3 -m venv .venv
 source .venv/bin/activate
