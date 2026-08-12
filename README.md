@@ -1,9 +1,42 @@
-# AI Employment Economy Execution Layer
+# Governing the AI Shock
 
-Reproducible simulation code for studying employment, firm dynamics, household
-welfare, and public-policy responses under an AI productivity shock. The model
-combines a deterministic economic core with optional, bounded AgentSociety/LLM
-decisions for residents, firms, and government.
+<p align="center">
+  <img src="assets/urban-cup-2026-project-cover.png" alt="Governing the AI Shock — Urban Cup 2026 project cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>Urban Cup 2026 Third Prize（三等奖）</strong><br>
+  The 4th International Conference on Urban Science and Intelligence<br>
+  Hong Kong University of Science and Technology (Guangzhou)
+</p>
+
+This repository contains the reproducible simulation code and usage
+instructions for *Governing the AI Shock: From Laissez-Faire Disruption to a
+Broad-Based AI Social Compact*, a Third Prize project in Urban Cup 2026. The
+model studies employment, firm dynamics, household welfare, and public-policy
+responses under an AI productivity shock by combining a deterministic economic
+core with optional, bounded AgentSociety/LLM decisions for residents, firms,
+and government.
+
+## Urban Cup 2026 recognition
+
+The project appears in the official competition results under the Third Prize
+category as the Emergent Balance Lab entry, “治理 AI 冲击：从自由放任式扰动到广泛共享的
+AI 社会契约.”
+
+<p align="center">
+  <img src="assets/urban-cup-2026-third-prize-list.png" alt="Urban Cup 2026 award list showing the Emergent Balance Lab project in the Third Prize category" width="760">
+</p>
+
+## Research framework
+
+The framework links AI adoption to a heterogeneous-agent urban economy,
+bounded LLM-assisted decisions, six post-shock intervention scenarios, and a
+four-part evaluation framework.
+
+<p align="center">
+  <img src="assets/research-framework.png" alt="Research framework for the AI-economy simulation and intervention experiments" width="860">
+</p>
 
 ## Repository layout
 
